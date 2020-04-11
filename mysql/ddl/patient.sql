@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS patient (
   gender varchar(255) default NULL,
   current_condition varchar(255) default NULL,
   blood_group varchar(255) default NULL,
+  insurance_covered varchar(255) default NULL,
+  insurance_name varchar(255) default NULL,
   primary key(patient_id)
 ) AUTO_INCREMENT=1;
 
