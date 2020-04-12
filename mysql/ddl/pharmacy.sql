@@ -1,6 +1,3 @@
-Create SCHEMA Project2;
-Create database Project;
-use Project;
 DROP TABLE IF EXISTS pharmacy;
 
 CREATE TABLE IF NOT EXISTS pharmacy (
