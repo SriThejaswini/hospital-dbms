@@ -1,0 +1,10 @@
+INSERT INTO treats (doctor_id,patient_id) VALUES (4,5),(2,16),(8,77),(4,63),(10,56),(12,74),(14,16),(14,21),(3,14),(10,26);
+INSERT INTO treats (doctor_id,patient_id) VALUES (1,77),(19,50),(10,88),(16,12),(7,40),(14,79),(12,38),(15,17),(4,15),(16,97);
+INSERT INTO treats (doctor_id,patient_id) VALUES (6,45),(6,67),(3,93),(9,28),(10,39),(19,38),(20,90),(1,37),(15,73),(9,84);
+INSERT INTO treats (doctor_id,patient_id) VALUES (17,17),(7,63),(8,11),(13,34),(1,67),(6,80),(1,19),(12,88),(15,100),(10,90);
+INSERT INTO treats (doctor_id,patient_id) VALUES (5,41),(18,77),(18,91),(14,30),(6,60),(19,84),(5,28),(15,48),(1,74),(4,97);
+INSERT INTO treats (doctor_id,patient_id) VALUES (17,95),(8,7),(4,48),(5,66),(17,47),(7,40),(20,54),(20,19),(1,85),(17,74);
+INSERT INTO treats (doctor_id,patient_id) VALUES (18,13),(7,9),(1,58),(16,44),(1,94),(13,51),(11,35),(4,86),(7,48),(3,84);
+INSERT INTO treats (doctor_id,patient_id) VALUES (6,60),(12,16),(17,75),(3,11),(15,41),(18,62),(7,65),(14,56),(16,100),(8,60);
+INSERT INTO treats (doctor_id,patient_id) VALUES (2,17),(4,72),(9,57),(8,86),(8,18),(16,26),(1,22),(15,2),(3,34),(6,17);
+INSERT INTO treats (doctor_id,patient_id) VALUES (2,23),(17,69),(2,7),(5,94),(6,57),(19,8),(10,53),(1,91),(10,2),(18,84);
