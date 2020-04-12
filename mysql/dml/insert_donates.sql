@@ -1,0 +1,10 @@
+INSERT INTO donates (donor_id,patient_id) VALUES (7,64),(64,77),(49,25),(48,21),(88,41),(4,79),(92,28),(77,62),(60,54),(63,62);
+INSERT INTO donates (donor_id,patient_id) VALUES (2,52),(47,52),(96,71),(16,95),(80,77),(74,73),(25,1),(19,3),(6,24),(68,8);
+INSERT INTO donates (donor_id,patient_id) VALUES (66,53),(70,21),(72,83),(42,44),(15,10),(67,18),(9,80),(59,54),(75,72),(95,2);
+INSERT INTO donates (donor_id,patient_id) VALUES (13,27),(8,20),(80,80),(86,81),(81,32),(68,32),(95,28),(50,63),(15,8),(9,2);
+INSERT INTO donates (donor_id,patient_id) VALUES (46,79),(23,74),(88,28),(81,32),(14,22),(73,5),(97,89),(28,92),(2,34),(68,42);
+INSERT INTO donates (donor_id,patient_id) VALUES (49,65),(8,86),(40,24),(96,9),(53,23),(74,9),(81,65),(13,52),(86,34),(66,4);
+INSERT INTO donates (donor_id,patient_id) VALUES (44,16),(76,65),(5,28),(94,75),(3,61),(25,98),(13,64),(30,71),(59,43),(4,29);
+INSERT INTO donates (donor_id,patient_id) VALUES (15,61),(39,100),(69,48),(4,35),(63,96),(55,40),(75,49),(45,99),(40,9),(36,67);
+INSERT INTO donates (donor_id,patient_id) VALUES (35,72),(14,32),(51,10),(91,11),(33,44),(97,69),(82,78),(98,66),(55,28),(10,38);
+INSERT INTO donates (donor_id,patient_id) VALUES (11,72),(70,91),(48,94),(43,90),(3,56),(90,51),(59,41),(81,28),(25,68),(33,79);
