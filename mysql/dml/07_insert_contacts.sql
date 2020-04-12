@@ -1,0 +1,10 @@
+INSERT INTO contacts (pharmacy_id,doctor_id) VALUES (5,4),(31,4),(38,10),(82,6),(12,7),(62,10),(9,1),(50,6),(48,6),(36,17);
+INSERT INTO contacts (pharmacy_id,doctor_id) VALUES (1,2),(56,4),(55,12),(30,11),(31,15),(37,19),(83,8),(37,12),(56,17),(30,12);
+INSERT INTO contacts (pharmacy_id,doctor_id) VALUES (78,13),(69,9),(11,2),(72,15),(75,18),(88,14),(77,12),(29,3),(89,18),(14,18);
+INSERT INTO contacts (pharmacy_id,doctor_id) VALUES (13,6),(51,12),(83,3),(75,6),(33,15),(86,17),(41,4),(43,1),(20,15),(64,6);
+INSERT INTO contacts (pharmacy_id,doctor_id) VALUES (42,3),(95,11),(11,4),(74,13),(13,19),(22,13),(42,9),(6,8),(63,8),(36,16);
+INSERT INTO contacts (pharmacy_id,doctor_id) VALUES (45,2),(95,18),(31,19),(12,20),(78,9),(38,1),(57,2),(31,17),(78,2),(51,16);
+INSERT INTO contacts (pharmacy_id,doctor_id) VALUES (80,19),(35,7),(69,17),(43,16),(32,8),(15,5),(94,6),(47,15),(62,12),(64,3);
+INSERT INTO contacts (pharmacy_id,doctor_id) VALUES (48,20),(80,6),(88,10),(49,15),(82,8),(93,20),(13,5),(2,5),(43,18),(7,1);
+INSERT INTO contacts (pharmacy_id,doctor_id) VALUES (54,5),(53,7),(54,1),(14,11),(91,11),(33,14),(54,2),(77,11),(78,12),(18,5);
+INSERT INTO contacts (pharmacy_id,doctor_id) VALUES (29,12),(63,19),(74,3),(80,5),(54,19),(81,3),(11,13),(60,11),(12,19),(33,1);
