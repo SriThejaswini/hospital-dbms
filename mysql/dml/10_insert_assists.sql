@@ -1,0 +1,10 @@
+INSERT INTO assists (assistant_id,patient_id) VALUES (96,96),(97,31),(91,57),(67,68),(75,92),(73,72),(72,86),(67,74),(67,5),(98,49);
+INSERT INTO assists (assistant_id,patient_id) VALUES (64,60),(83,75),(93,31),(81,33),(61,14),(68,87),(63,76),(96,76),(62,58),(93,45);
+INSERT INTO assists (assistant_id,patient_id) VALUES (95,100),(62,55),(82,63),(99,22),(62,88),(72,19),(89,30),(53,24),(76,20),(68,70);
+INSERT INTO assists (assistant_id,patient_id) VALUES (69,47),(94,96),(52,76),(59,85),(63,64),(83,100),(60,66),(67,43),(90,11),(71,52);
+INSERT INTO assists (assistant_id,patient_id) VALUES (94,23),(66,16),(63,18),(70,70),(94,17),(93,96),(87,100),(96,82),(65,36),(96,36);
+INSERT INTO assists (assistant_id,patient_id) VALUES (64,22),(74,22),(83,4),(98,98),(57,70),(94,76),(54,47),(67,98),(81,53),(76,33);
+INSERT INTO assists (assistant_id,patient_id) VALUES (68,57),(75,47),(79,86),(81,67),(60,59),(59,74),(64,41),(99,7),(77,10),(57,92);
+INSERT INTO assists (assistant_id,patient_id) VALUES (84,91),(92,79),(52,55),(98,41),(81,8),(61,16),(93,66),(74,44),(97,1),(60,99);
+INSERT INTO assists (assistant_id,patient_id) VALUES (72,76),(89,36),(62,25),(94,42),(68,34),(92,72),(79,28),(91,11),(97,64),(57,50);
+INSERT INTO assists (assistant_id,patient_id) VALUES (90,40),(72,40),(78,4),(95,83),(94,43),(58,58),(57,57),(86,33),(55,38),(79,44);
