@@ -26,3 +26,9 @@ select gender,count(*) from patient group by gender;
 select p.patient_id,p.first_name,p.last_name from treats t,patient p
 where p.patient_id = t.patient_id
 and t.doctor_id=15;
+
+#doctors and no of patients they treat
+select t.doctor_id,d.first_name,d.last_name,count(*) as no_of_patients from doctor d, treats t
+where d.doctor_id = t.doctor_id
+group by t.doctor_id
+order by no_of_patients desc;
