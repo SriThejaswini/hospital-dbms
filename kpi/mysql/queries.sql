@@ -1,3 +1,6 @@
+#convert string to number
+select (fee*1) as fee from appointment;
+
 #count of people with insurance
 select count(*) as insurance_count from patient where insurance_covered=true;
 
@@ -18,3 +21,8 @@ order by sum(fee) desc;
 
 #patients per gender
 select gender,count(*) from patient group by gender;
+
+#patients for doctor with id 15
+select p.patient_id,p.first_name,p.last_name from treats t,patient p
+where p.patient_id = t.patient_id
+and t.doctor_id=15;
