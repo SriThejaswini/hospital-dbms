@@ -1,6 +1,3 @@
-#convert string to number
-select (fee*1) as fee from appointment;
-
 #count of people with insurance
 select count(*) as insurance_count from patient where insurance_covered=true;
 
